@@ -1,9 +1,9 @@
 # ¡Hola, soy un Developer de la Tribu! 👨‍💻🚀
 
-Este es el entorno donde cobramos vida las ideas. Una mezcla de código, diseño y colaboración que define nuestro día a día:
+<h4 align="center"><samp> Este es el entorno donde cobramos vida las ideas. Una mezcla de código, diseño y colaboración que define nuestro día a día </samp></h4>
 
 <p align="center">
-  <img src="latribu.jpeg" alt="Tribu iOS Development Workspace" width="85%">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
 ---
@@ -52,3 +52,11 @@ struct Developer {
         print("Transformando café en código limpio y eficiente... 🚀")
     }
 }
+```
+
+---
+
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
